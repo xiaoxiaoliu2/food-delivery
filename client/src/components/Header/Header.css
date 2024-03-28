@@ -7,6 +7,27 @@
 }
 
 .header-contents{
+  /* position: absolute; */
+  /* display: flex;
+  flex-direction: column; */
+  margin: 30px ;
+  align-items: start;
+  gap: 1.5vw;
+  max-width: 50%;
+  bottom: 10%;
+  left: 6vw;
+  animation: fadeIn 3s;
+}
+
+.header-contents p{
+
+}
+
+
+
+
+
+/* .header-contents{
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -16,7 +37,7 @@
   bottom: 10%;
   left: 6vw;
   animation: fadeIn 3s;
-}
+} */
 
 .header-contents h2{
   font-weight: 500;
